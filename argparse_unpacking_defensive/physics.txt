@@ -1,0 +1,3 @@
+Thu Nov  7 10:12:33 2024, Einstein,Physics, MIT, F
+Thu Nov  7 10:15:12 2024, Isaac Newton,physics, harvard, F
+Thu Nov  7 10:15:36 2024, Heisenberg ,physics, UGA, F

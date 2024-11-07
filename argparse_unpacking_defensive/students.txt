@@ -1,0 +1,5 @@
+Thu Nov  7 09:52:11 2024, Einstein,Physics, MIT, F
+Thu Nov  7 10:00:31 2024, Marie Curie,Physics, UGA, F
+Thu Nov  7 10:00:45 2024, Albert Einstein,Physics, UGA, F
+Thu Nov  7 10:08:47 2024, Paul,Engineering, UCLA, F
+Thu Nov  7 10:09:56 2024, Kyle Johnsen,CS, UFL, F
